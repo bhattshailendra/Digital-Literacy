@@ -3,6 +3,7 @@ Digital Literacy Project
 ##  Student Details
 Name: Shailendra Bhatt  
 Reg No: 25BAI10699
+
 Branch: CSE (AI & ML)  
 Year: 1st Year  
 
